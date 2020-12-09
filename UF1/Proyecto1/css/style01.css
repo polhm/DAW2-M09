@@ -1,0 +1,41 @@
+* {
+   
+    outline: 1px solid reed !important;
+
+}
+
+
+   .content {
+        display: flex;
+     }
+     
+     .image {
+        flex: 1;
+     }
+     
+     .description {
+        flex: 2;
+        color: rgb(218, 151, 85);
+        background-color: rgb(114, 114, 114);
+        font-style: italic;
+        font: 1em sans-serif;;
+        padding-left: 10px;
+        padding-right: 10px;
+     }
+     
+     img {
+        width: 100%;
+     }
+
+     h1 {
+
+      text-align: center;
+
+     }
+
+     div {
+      margin-top: 25px;
+      margin-bottom: 25px;
+      margin-right: 25px;
+      margin-left: 25px;
+    }
