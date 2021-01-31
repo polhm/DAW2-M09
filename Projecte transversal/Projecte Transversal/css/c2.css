@@ -1,0 +1,27 @@
+.telefon{
+    display: flex;
+    margin-left: 325px;
+}
+
+.textos{
+
+font-size: 15px;
+text-align: center;
+line-height: 1px;
+justify-content: right;
+vertical-align: top;
+}
+
+.imatge{
+    justify-content: left;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.txt1{
+
+color: gray;
+
+}
+
+

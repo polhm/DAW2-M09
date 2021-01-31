@@ -1,0 +1,62 @@
+.OurServices{
+    text-align: center;
+    background-color: white;
+    padding-top: 40px;
+}
+
+.OUR{
+    margin-top: 2px;
+    font-size: 30px;
+}
+
+.btn_fletxa > button{
+    border: none;
+    background-color: transparent
+}
+
+.item1{
+    margin-right: 20px;
+    text-align: center;
+    width: 250px;
+    height: 175px;
+
+}
+
+.item2{
+    margin-right: 20px;
+}
+
+.btn_fletxa{
+    margin-left: auto;
+    vertical-align: top;
+}
+
+.peu_foto{
+    text-align: left;
+    margin-left: 20px;
+    display: flex;
+    line-height: 7px;
+}
+
+.items{
+    padding-top: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+.textos2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    justify-content: center;
+    display: flex;
+    font-size: 13px;
+}
+
+.verd{
+    color: rgb(0, 172, 0);
+    
+}
+
+.gris{
+    color: grey;
+}

@@ -1,0 +1,33 @@
+.body_2{
+    display: flex;
+    justify-content: center;
+}
+
+.AboutUs{
+
+padding-top: 50px;
+
+}
+
+.DUIS{
+    font-size: 10px
+}
+
+.Since{
+
+    color: rgb(52, 179, 2);
+    font-size: 25px;
+}
+
+.AboutUs > p{
+
+margin-bottom: 10px;
+}
+
+.img-footer{
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
